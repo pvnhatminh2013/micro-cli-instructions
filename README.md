@@ -1,6 +1,5 @@
 # This is the Micro CLI instructions page!
 ## Commands to-do:
-- DELETE (del)
 - DIRECTORY (dir/ls)
 - EXIT (exit)
 - ECHO
