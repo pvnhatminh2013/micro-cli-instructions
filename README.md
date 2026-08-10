@@ -12,4 +12,3 @@
 ### Specific architectures:
 + Intel C Compiler (icx)
 + AMD Optimizing C Compiler (aocc)
-+ Microsoft (msvc)
