@@ -1,8 +1,9 @@
 # This is the Micro CLI instructions page!
 ## Commands to-do:
-- ECHO
 - RENAME (ren)
 - TYPE (cat)
+## Things that we could do:
+- SET (set)
 # Everything will be written in C!
 ## Recommended compilers:
 - GNU C Compiler (gcc)
