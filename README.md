@@ -15,7 +15,3 @@
 + Intel C Compiler (icx)
 + AMD Optimizing C Compiler (aocc)
 + Microsoft (msvc)
-
----
-
-**By the time this text first appeared, there was no markdown file. We will make it soon. Right now is not the time.**  
