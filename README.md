@@ -1,6 +1,5 @@
 # This is the Micro CLI instructions page!
 ## Commands to-do:
-- EXIT (exit)
 - ECHO
 - RENAME (ren)
 - TYPE (cat)
