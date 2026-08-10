@@ -18,4 +18,4 @@
 
 ---
 
-**By the time this text first appeared, there was no markdown file. We will make it soon.**  
+**By the time this text first appeared, there was no markdown file. We will make it soon. Right now is not the time.**  
