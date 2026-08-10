@@ -1,6 +1,5 @@
 # This is the Micro CLI instructions page!
 ## Commands to-do:
-- DIRECTORY (dir/ls)
 - EXIT (exit)
 - ECHO
 - RENAME (ren)
@@ -13,4 +12,3 @@
 ### Specific architectures:
 + Intel C Compiler (icx)
 + AMD Optimizing C Compiler (aocc)
-+ Microsoft (msvc)
