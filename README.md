@@ -3,7 +3,7 @@
 - RENAME (ren)
 - TYPE (cat)
 ## Things that we could do:
-- SET (set)
+- SET (set) (This is due to the lack of documentation I found)
 # Everything will be written in C!
 ## Recommended compilers:
 - GNU C Compiler (gcc)
