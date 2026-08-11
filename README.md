@@ -1,8 +1,6 @@
 # This is the Micro CLI instructions page!
 ## Commands to-do:
-- TYPE (cat)
-## Things that we could do:
-- SET (set) (This is due to the lack of documentation I found)
+- SET (set) 
 # Everything will be written in C!
 ## Recommended compilers:
 - GNU C Compiler (gcc)
