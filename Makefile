@@ -15,3 +15,7 @@ ls: directory.c
 	$(cc) directory.c -o ls
 echo: echo.c
 	$(cc) echo.c -o echo
+rename: rename.c
+	$(cc) rename.c -o rename
+ren: rename.c
+	$(cc) rename.c -o ren

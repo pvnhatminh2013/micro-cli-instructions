@@ -1,6 +1,5 @@
 # This is the Micro CLI instructions page!
 ## Commands to-do:
-- RENAME (ren)
 - TYPE (cat)
 ## Things that we could do:
 - SET (set) (This is due to the lack of documentation I found)
