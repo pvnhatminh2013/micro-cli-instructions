@@ -19,3 +19,7 @@ rename: rename.c
 	$(cc) rename.c -o rename
 ren: rename.c
 	$(cc) rename.c -o ren
+type: type.c
+	$(cc) type.c -o type
+cat: type.c
+	$(cc) type.c -o cat
