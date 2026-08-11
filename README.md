@@ -1,6 +1,5 @@
 # This is the Micro CLI instructions page!
 ## Commands to-do:
-- CHDIR (cd)
 - CLEAR (cls)
 - DATE (time)
 - MKDIR (md)
