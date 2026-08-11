@@ -3,6 +3,8 @@
 - CLEAR (cls)
 - DATE (time)
 - MKDIR (md)
+## What we are considering:
+- CHDIR (cd)
 # Everything will be written in C!
 ## Recommended compilers:
 - GNU C Compiler (gcc)
