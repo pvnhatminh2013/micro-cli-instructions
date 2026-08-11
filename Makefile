@@ -6,20 +6,24 @@ cp: copy.c
 delete: delete.c
 	$(cc) delete.c -o delete
 del: delete.c
-	$(cc) delete.c -o del
+	./copy delete del
 directory: directory.c
 	$(cc) directory.c -o directory
 dir: directory.c
-	$(cc) directory.c -o dir
+	./copy directory dir
 ls: directory.c
-	$(cc) directory.c -o ls
+	./copy dir ls
 echo: echo.c
 	$(cc) echo.c -o echo
 rename: rename.c
 	$(cc) rename.c -o rename
 ren: rename.c
-	$(cc) rename.c -o ren
+	./copy rename ren
 type: type.c
 	$(cc) type.c -o type
 cat: type.c
-	$(cc) type.c -o cat
+	./copy type cat
+clear: clear.c
+	$(cc) clear.c -o clear
+cls: clear.c
+	./copy clear cls
