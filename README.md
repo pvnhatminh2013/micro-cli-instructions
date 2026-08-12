@@ -2,7 +2,7 @@
 ## Commands to-do:
 - TIME (not to be confused with DATE)
 - VER
-- START
+- TITLE
 # Everything will be written in C!
 ## Recommended compilers:
 - GNU C Compiler (gcc)
