@@ -2,7 +2,7 @@
 #include <sys/stat.h>
 #include <sys/types.h>
 int main(int argc, char *argv[]) {
-	if (argc <= 2) {
+	if (argc < 2) {
 		perror("Not enough arguments.");
 		return 1;
 	}
