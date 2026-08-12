@@ -1,6 +1,5 @@
 # This is the Micro CLI instructions page!
 ## Commands to-do:
-- DATE (time)
 - MKDIR (md)
 - RMDIR (rd)
 # Everything will be written in C!
