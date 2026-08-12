@@ -27,3 +27,7 @@ clear: clear.c
 	$(cc) clear.c -o clear
 cls: clear.c
 	./copy clear cls
+date: date.c
+	$(cc) date.c -o date
+time: time.c
+	./copy date time
