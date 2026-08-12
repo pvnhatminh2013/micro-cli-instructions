@@ -1,33 +1,37 @@
 cc := gcc
+all: copy cp delete del directory dir ls echo rename ren type cat clear cls date time
 copy: copy.c
 	$(cc) copy.c -o copy
-cp: copy.c
-	$(cc) copy.c -o cp
+cp: copy
+	./copy copy cp
 delete: delete.c
 	$(cc) delete.c -o delete
-del: delete.c
+del: delete copy
 	./copy delete del
 directory: directory.c
 	$(cc) directory.c -o directory
-dir: directory.c
+dir: directory copy
 	./copy directory dir
-ls: directory.c
+ls: dir copy
 	./copy dir ls
 echo: echo.c
 	$(cc) echo.c -o echo
 rename: rename.c
 	$(cc) rename.c -o rename
-ren: rename.c
+ren: rename copy
 	./copy rename ren
 type: type.c
 	$(cc) type.c -o type
-cat: type.c
+cat: type copy
 	./copy type cat
 clear: clear.c
 	$(cc) clear.c -o clear
-cls: clear.c
+cls: clear copy
 	./copy clear cls
 date: date.c
 	$(cc) date.c -o date
-time: time.c
+time: date copy
 	./copy date time
+clean:
+	rm -f copy cp delete del directory dir ls echo rename ren type cat clear cls date time
+.PHONY: all clean
