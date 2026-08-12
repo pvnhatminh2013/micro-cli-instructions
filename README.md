@@ -11,3 +11,5 @@
 ### Specific architectures:
 + Intel C Compiler (icx)
 + AMD Optimizing C Compiler (aocc)
+# Some of our commands need superuser to execute. (e.g. rmdir)
+# Execute the Makefile in a POSIX environment ONLY.
