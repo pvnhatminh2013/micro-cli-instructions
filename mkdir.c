@@ -3,8 +3,8 @@
 #include <sys/types.h>
 int main(int argc, char *argv[]) {
 	for (int i = 1; i < argc; i++) {
-		if (mkdir(argv[1], 0777) == -1) {
-			perror("Error creating directory.\n");
+		if (mkdir(argv[i], 0777) == -1) {
+			perror("Error creating directory.");
 			continue;
 		}
 	}
