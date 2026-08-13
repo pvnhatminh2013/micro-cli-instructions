@@ -10,6 +10,6 @@
 ### Specific architectures:
 + Intel C Compiler (icx)
 + AMD Optimizing C Compiler (aocc)
-# Some of our commands need superuser to execute. (e.g. rmdir)
-# Execute the Makefile in a POSIX environment ONLY.
-# On some situations some commands need superuser. time (setting the time) is the only one that needs superuser all the time.
+# Clarifications:
+## Execute the Makefile in a POSIX environment ONLY.
+## On some situations some commands need superuser. time (setting the time) is the only one that needs superuser all the time.
