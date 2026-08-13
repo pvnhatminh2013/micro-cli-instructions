@@ -3,6 +3,7 @@
 - VER
 - help (the command)
 - pwd
+- beep
 # Everything will be written in C!
 ## Recommended compilers:
 - GNU C Compiler (gcc)
