@@ -1,6 +1,5 @@
 # This is the Micro CLI instructions page!
 ## Commands to-do:
-- TIME (not to be confused with DATE)
 - VER
 - TITLE
 # Everything will be written in C!
@@ -13,3 +12,4 @@
 + AMD Optimizing C Compiler (aocc)
 # Some of our commands need superuser to execute. (e.g. rmdir)
 # Execute the Makefile in a POSIX environment ONLY.
+# On some situations some commands need superuser. time (setting the time) is the only one that needs superuser all the time.
