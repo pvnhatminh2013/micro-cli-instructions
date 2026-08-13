@@ -12,4 +12,5 @@
 + AMD Optimizing C Compiler (aocc)
 # Clarifications:
 Execute the Makefile in a POSIX environment ONLY.
+<br>
 On some situations some commands need superuser. time (setting the time) is the only one that needs superuser all the time.
