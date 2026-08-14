@@ -1,7 +1,7 @@
 ![license](https://img.shields.io/badge/license-MIT-green?style=flat)
 ![build tool](https://img.shields.io/badge/build%20tool-Makefile-blue?style=flat)
 ![environment](https://img.shields.io/badge/environment-POSIX-red?style=flat)
-![most recent version](https://img.shields.io/badge/most%20recent%20version-v0.8.10-yellow?style=flat)
+![most recent version](https://img.shields.io/badge/most%20recent%20version-v0.8.15%20beta-yellow?style=flat)
 <br>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
