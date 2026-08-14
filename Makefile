@@ -1,5 +1,5 @@
 cc := gcc
-all: copy cp delete del directory dir ls echo rename ren type cat clear cls date mkdir md rmdir rd time help
+all: copy cp delete del directory dir ls echo rename ren type cat clear cls date mkdir md rmdir rd time help pwd
 copy: copy.c
 	$(cc) copy.c -o copy
 cp: copy
@@ -42,6 +42,8 @@ time: time.c
 	$(cc) time.c -o time
 help: help.c
 	$(cc) help.c -o help
+pwd: pwd.c
+	$(cc) pwd.c -o pwd
 clean:
-	rm -f copy cp delete del directory dir ls echo rename ren type cat clear cls date mkdir md rmdir rd time help
+	rm -f copy cp delete del directory dir ls echo rename ren type cat clear cls date mkdir md rmdir rd time help pwd
 .PHONY: all clean
