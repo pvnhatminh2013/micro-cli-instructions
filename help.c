@@ -2,6 +2,7 @@
 int main() {
     printf(
     "beep - Plays a beep sound\n"
+    "choice prompt clause1 clause2 - Waits for the user to choose between y or n (case insensitive), If the user chooses y, execute clause1, else, execute clause2"
     "clear / cls - Clear screen\n"
     "copy / cp file1 file2 - Copy contents of file1 to file2\n"
     "date - Displays the date and time\n"
