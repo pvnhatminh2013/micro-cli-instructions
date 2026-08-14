@@ -14,6 +14,7 @@
 - help (the command)
 - pwd
 - beep
+- choice
 # Everything will be written in C!
 ## Recommended compilers:
 - GNU C Compiler (gcc)
