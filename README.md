@@ -23,4 +23,4 @@
 # Clarifications:
 Execute the Makefile in a POSIX environment ONLY.
 <br>
-On some situations some commands need superuser. time (setting the time) is the only one that needs superuser all the time.
+On some situations some commands need superuser. The time (setting the time) command is the only one that needs superuser all the time.
