@@ -11,7 +11,9 @@
 ![AMD](https://img.shields.io/badge/amd-%23ED1C24.svg?style=for-the-badge&logo=amd&logoColor=white)
 # This is the Micro CLI instructions page!
 ## Commands to-do:
-Actually none are on our to-do list right now!
+- fc (diff)
+- measure
+- sleep (timeout)
 # Everything will be written in C!
 ## Recommended compilers:
 - GNU C Compiler (gcc)
