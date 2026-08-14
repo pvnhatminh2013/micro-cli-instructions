@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main() {
     printf(
+    "beep - Beep\n"
     "clear / cls - Clear screen\n"
     "copy / cp file1 file2 - Copy contents of file1 to file2\n"
     "date - Displays the date and time\n"
