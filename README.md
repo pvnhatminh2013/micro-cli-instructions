@@ -11,7 +11,6 @@
 ![AMD](https://img.shields.io/badge/amd-%23ED1C24.svg?style=for-the-badge&logo=amd&logoColor=white)
 # This is the Micro CLI instructions page!
 ## Commands to-do:
-- pwd
 - beep
 - choice
 # Everything will be written in C!
