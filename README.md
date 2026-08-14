@@ -13,6 +13,7 @@
 ## Commands to-do:
 - fc (diff)
 - measure
+- find (findstr)
 - sleep (timeout)
 # Everything will be written in C!
 ## Recommended compilers:
