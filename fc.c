@@ -28,7 +28,7 @@ int main(int argc, char *argv[]) {
             break;
         }
         if (res1 == NULL || res2 == NULL || strcmp(line1, line2) != 0) {
-            printf("Difference found at line %d:\n", lineNum);
+            printf("Line %d:\n", lineNum);
             if (!strchr(line1, '\n')) {
                 printf("%s: %s\n", argv[1], (res1 ? line1 : ""));
             }
@@ -43,6 +43,7 @@ int main(int argc, char *argv[]) {
             }
             diffFound = 1;
         }
+        printf("-------\n");
     }
     fclose(f1);
     fclose(f2);
