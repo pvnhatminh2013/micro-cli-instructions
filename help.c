@@ -9,6 +9,7 @@ int main() {
     "delete / del file1 file2 ... - Deletes file1, file2,...\n"
     "directory / dir / ls - Lists all files and subdirectories in the current working directory\n"
     "echo str1 str2 ... - Outputs str1, str2, ... (space separated)\n"
+    "fc / diff file1 file2 - Displays the differences line by line between file1 and file2\n"
     "help - Displays information for all available commands\n"
     "mkdir / md dir1 dir2 ... - Makes directories dir1, dir2, ...\n"
     "pwd - Print working directory\n"
