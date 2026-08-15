@@ -27,6 +27,6 @@ Execute the Makefile in a POSIX environment ONLY.
 <br>
 On some situations some commands need superuser. The time (setting the time) command is the only one that needs superuser all the time.
 # What to install:
-- gcc
+- gcc / clang / tcc / icx / aocc
 - Makefile
-- git
+- git / github CLI
