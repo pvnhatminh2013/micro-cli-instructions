@@ -11,7 +11,6 @@
 ![AMD](https://img.shields.io/badge/amd-%23ED1C24.svg?style=for-the-badge&logo=amd&logoColor=white)
 # This is the Micro CLI instructions page!
 ## Commands to-do:
-- fc (diff)
 - measure
 - find (findstr)
 - sleep (timeout)
@@ -27,3 +26,10 @@
 Execute the Makefile in a POSIX environment ONLY.
 <br>
 On some situations some commands need superuser. The time (setting the time) command is the only one that needs superuser all the time.
+# What to install:
+- gcc / clang / tcc
+- Makefile
+- git / github CLI
+- Only install icx on Intel processor computers
+- Only instal aocc on AMD processor computers
+- In some cases, you need to update the Makefile to work on your computer.
