@@ -6,10 +6,6 @@
 <br>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-<br>
-![gnu](https://img.shields.io/badge/gnu-%23A42E2B.svg?style=for-the-badge&logo=gnu&logoColor=white)
-![Intel](https://img.shields.io/badge/intel-%230068B5.svg?style=for-the-badge&logo=intel&logoColor=white)
-![AMD](https://img.shields.io/badge/amd-%23ED1C24.svg?style=for-the-badge&logo=amd&logoColor=white)
 # This is the Micro CLI instructions page!
 ## Commands to-do:
 - measure
