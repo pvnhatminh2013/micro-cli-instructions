@@ -2,7 +2,7 @@
 #include <stdlib.h>
 int main(int argc, char* argv[]) {
     if (argc != 4) {
-        perror("Wrong number of arguments.");
+        printf("Wrong number of arguments.\n");
         return 1;
     }
     char ch;
