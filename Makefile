@@ -50,6 +50,8 @@ choice: choice.c
 	$(cc) choice.c -o choice
 fc: fc.c
 	$(cc) fc.c -o fc
+diff: fc copy
+	./copy fc diff
 clean:
 	rm -f copy cp delete del directory dir ls echo rename ren type cat clear cls date mkdir md rmdir rd time help pwd beep choice
 .PHONY: all clean
