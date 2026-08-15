@@ -1,5 +1,5 @@
 cc := gcc
-all: copy cp delete del directory dir ls echo rename ren type cat clear cls date mkdir md rmdir rd time help pwd beep choice
+all: copy cp delete del directory dir ls echo rename ren type cat clear cls date mkdir md rmdir rd time help pwd beep choice fc diff
 copy: copy.c
 	$(cc) copy.c -o copy
 cp: copy
