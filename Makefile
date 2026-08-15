@@ -53,5 +53,5 @@ fc: fc.c
 diff: fc copy
 	./copy fc diff
 clean:
-	rm -f copy cp delete del directory dir ls echo rename ren type cat clear cls date mkdir md rmdir rd time help pwd beep choice
+	rm -f copy cp delete del directory dir ls echo rename ren type cat clear cls date mkdir md rmdir rd time help pwd beep choice fc diff
 .PHONY: all clean
