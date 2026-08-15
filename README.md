@@ -32,3 +32,4 @@ On some situations some commands need superuser. The time (setting the time) com
 - git / github CLI
 - Only install icx on Intel processor computers
 - Only instal aocc on AMD processor computers
+- In some cases, you need to update the Makefile to work on your computer.
