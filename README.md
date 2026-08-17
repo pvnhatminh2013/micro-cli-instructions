@@ -8,7 +8,6 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 # This is the Micro CLI instructions page!
 ## Commands to-do:
-- measure
 - find (findstr)
 - sleep (timeout)
 # Everything will be written in C!
