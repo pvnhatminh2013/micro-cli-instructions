@@ -5,6 +5,7 @@
 ![code scanning](https://img.shields.io/badge/code%20scanning-no%20issues-success?style=flat)
 <br>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+<br>
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 # This is the Micro CLI instructions page!
 ## Commands to-do:
