@@ -1,5 +1,5 @@
 cc := gcc
-all: copy cp delete del directory dir ls echo rename ren type cat clear cls date mkdir md rmdir rd time help pwd beep choice fc diff
+all: copy cp delete del directory dir ls echo rename ren type cat clear cls date mkdir md rmdir rd time help pwd beep choice fc diff measure
 copy: copy.c
 	$(cc) copy.c -o copy
 cp: copy
@@ -52,6 +52,8 @@ fc: fc.c
 	$(cc) fc.c -o fc
 diff: fc copy
 	./copy fc diff
+measure: measure.c
+	$(cc) measure.c -o measure
 clean:
-	rm -f copy cp delete del directory dir ls echo rename ren type cat clear cls date mkdir md rmdir rd time help pwd beep choice fc diff
+	rm -f copy cp delete del directory dir ls echo rename ren type cat clear cls date mkdir md rmdir rd time help pwd beep choice fc diff measure
 .PHONY: all clean
