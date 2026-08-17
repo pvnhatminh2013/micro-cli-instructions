@@ -8,8 +8,11 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 # This is the Micro CLI instructions page!
 ## Commands to-do:
+- where (which)
+- wc
 - find (findstr)
 - sleep (timeout)
+- tee
 # Everything will be written in C!
 ## Recommended compilers:
 - GNU C Compiler (gcc)
