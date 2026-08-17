@@ -26,6 +26,8 @@
 Execute the Makefile in a POSIX environment ONLY.
 <br>
 On some situations some commands need superuser. The time (setting the time) command is the only one that needs superuser all the time.
+<br>
+We highly don't recommend having this command line set in pure Windows, it's not possible.
 # What to install:
 - gcc / clang / tcc
 - Makefile
