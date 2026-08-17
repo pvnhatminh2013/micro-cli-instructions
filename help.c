@@ -2,7 +2,7 @@
 int main() {
     printf(
     "beep - Plays a beep sound.\n"
-    "choice prompt command1 command2 - Prompt "$prompt[y/n]?" and waits for the user to choose between y or n (case insensitive). If the user chooses y, execute command1, else, execute command2.\n"
+    "choice prompt command1 command2 - Prompt \"$prompt[y/n]?\" and waits for the user to choose between y or n (case insensitive). If the user chooses y, execute command1, else, execute command2.\n"
     "clear / cls - Clear screen.\n"
     "copy / cp file1 file2 - Copy contents of file1 to file2.\n"
     "date - Displays the date and time.\n"
@@ -11,6 +11,7 @@ int main() {
     "echo str1 str2 ... - Outputs str1, str2, ... (space separated).\n"
     "fc / diff file1 file2 - Displays the differences line by line between file1 and file2.\n"
     "help - Displays information for all available commands.\n"
+    "measure command - Runs the command $command and outputs the time taken below.\n"
     "mkdir / md dir1 dir2 ... - Makes directories dir1, dir2, ...\n"
     "pwd - Print working directory.\n"
     "rename / ren name1 name2 - Renames file or directory with name1 to name2.\n"
