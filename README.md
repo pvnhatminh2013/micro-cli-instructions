@@ -14,7 +14,7 @@
 - find (findstr)
 - sleep (timeout)
 - tee
-# Everything will be written in C!
+# Everything will be and is written in C!
 ## Recommended compilers:
 - GNU C Compiler (gcc)
 - Clang/LLVM (clang)
